@@ -5,9 +5,6 @@
        xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans-2.5.xsd
 	http://code.alibabatech.com/schema/dubbo http://code.alibabatech.com/schema/dubbo/dubbo.xsd">
 
-    <bean id="myService" class="com.lixiaohao.dubbo.demo.consumer.service.MyService" init-method="start">
-        <property name="demoService" ref="demoService" />
-    </bean>
     <dubbo:reference id="demoService" interface="com.lixiaohao.dubbo.demo.service.DemoService" />
 
 </beans>

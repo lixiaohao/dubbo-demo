@@ -1,6 +1,7 @@
-package com.lixiaohao.dubbo.demo.consumer;
+package com.lixiaohao.dubbo.demo.consumer.service;
 
 import com.lixiaohao.dubbo.demo.service.DemoService;
+import org.springframework.stereotype.Service;
 
 import java.text.SimpleDateFormat;
 import java.util.Date;
@@ -8,6 +9,7 @@ import java.util.Date;
 /**
  * Created by xiaohao.li on 2017/6/27.
  */
+//@Service("myService")
 public class MyService {
     private DemoService demoService;
 

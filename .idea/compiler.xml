@@ -9,6 +9,7 @@
         <module name="dubbo-demo-api" />
         <module name="dubbo-demo-consumer" />
         <module name="dubbo-demo-provider" />
+        <module name="dubbo-demo-user" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -16,6 +17,7 @@
       <module name="dubbo-demo-api" target="1.5" />
       <module name="dubbo-demo-consumer" target="1.5" />
       <module name="dubbo-demo-provider" target="1.5" />
+      <module name="dubbo-demo-user" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>
