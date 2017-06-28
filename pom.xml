@@ -12,6 +12,8 @@
         <module>dubbo-demo-consumer</module>
         <module>dubbo-demo-provider</module>
         <module>dubbo-demo-user</module>
+        <module>dubbo-demo-model</module>
+        <module>dubbo-demo-service</module>
     </modules>
     <packaging>pom</packaging>
 

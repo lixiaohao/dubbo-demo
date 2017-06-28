@@ -9,4 +9,8 @@
 
     <dubbo:service interface="com.lixiaohao.dubbo.demo.service.DemoService" ref="demoService" />
 
+    <bean id="userService" class="com.lixiaohao.dubbo.demo.provider.serviceimpl.UserServiceImpl" />
+
+    <dubbo:service interface="com.lixiaohao.dubbo.demo.service.UserService" ref="userService" />
+
 </beans>

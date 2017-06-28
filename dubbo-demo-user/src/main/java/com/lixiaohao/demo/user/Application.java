@@ -12,7 +12,7 @@ import org.springframework.context.annotation.ImportResource;
 @SpringBootApplication //
 @Configuration
 @ComponentScan(basePackages = {"com.lixiaohao.demo.user"})
-@ImportResource("classpath:dubbo-demo-consumer.xml")
+@ImportResource({"classpath:dubbo-demo-consumer.xml"})
 public class Application {
     public static void main(String[] args) {
         SpringApplication.run(Application.class,args);

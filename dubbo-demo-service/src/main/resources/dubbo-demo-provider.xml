@@ -5,11 +5,8 @@
        xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans-2.5.xsd
 	http://code.alibabatech.com/schema/dubbo http://code.alibabatech.com/schema/dubbo/dubbo.xsd">
 
-    <bean id="demoService" class="com.lixiaohao.dubbo.demo.provider.DemoServiceImpl" />
 
-    <dubbo:service interface="com.lixiaohao.dubbo.demo.service.DemoService" ref="demoService" />
-
-    <bean id="userService" class="com.lixiaohao.dubbo.demo.provider.serviceimpl.UserServiceImpl" />
+    <bean id="userService" class="com.lixiaohao.dubbo.demo.service.UserServiceImpl" />
 
     <dubbo:service interface="com.lixiaohao.dubbo.demo.service.UserService" ref="userService" />
 

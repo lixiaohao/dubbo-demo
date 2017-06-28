@@ -9,9 +9,8 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>dubbo-demo-provider</artifactId>
+    <artifactId>dubbo-demo-service</artifactId>
     <packaging>jar</packaging>
-
 
     <dependencies>
         <dependency>
@@ -116,6 +115,4 @@
         </dependency>
 
     </dependencies>
-
-
 </project>
