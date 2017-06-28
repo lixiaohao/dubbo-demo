@@ -7,6 +7,7 @@
      <settings>
       <!--<setting name="useGeneratedKeys" value="false"/>-->
        <!--<setting name="useColumnLabel" value="true"/>-->
+         <!--启动打印sql语句-->
          <setting name="logImpl" value="STDOUT_LOGGING" />
      </settings>
 

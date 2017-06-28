@@ -2,45 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6d746e0e-f2b4-4ca9-9eaa-5a2a8584b20e" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_40.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_3_2_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dubbo-demo-model/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dubbo-demo-provider/src/main/resources/dubbo.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dubbo-demo-provider/src/main/resources/log4j.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dubbo-demo-provider/src/main/resources/mybatisContext.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dubbo-demo-provider/src/main/resources/spring-application.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dubbo-demo-service/dubbo-demo-service.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dubbo-demo-service/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dubbo-demo-service/src/main/java/com/lixiaohao/dubbo/demo/ServiceApplication.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dubbo-demo-service/src/main/java/com/lixiaohao/dubbo/demo/dao/UserDao.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dubbo-demo-service/src/main/java/com/lixiaohao/dubbo/demo/service/UserServiceImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dubbo-demo-service/src/main/resources/db.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dubbo-demo-service/src/main/resources/dubbo-demo-provider.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dubbo-demo-service/src/main/resources/dubbo.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dubbo-demo-service/src/main/resources/log4j.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dubbo-demo-service/src/main/resources/model/userDao.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dubbo-demo-service/src/main/resources/mybatisContext.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dubbo-demo-service/src/main/resources/spring-application.xml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__asm_asm_3_1.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__cglib_cglib_2_2.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dubbo-demo-user/src/main/resources/application.properties" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dubbo-demo-provider/src/main/resources/mybatisContext.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dubbo-demo-provider/src/main/resources/spring-application.xml" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dubbo-demo-api/dubbo-demo-api.iml" afterPath="$PROJECT_DIR$/dubbo-demo-api/dubbo-demo-api.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dubbo-demo-api/pom.xml" afterPath="$PROJECT_DIR$/dubbo-demo-api/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dubbo-demo-consumer/dubbo-demo-consumer.iml" afterPath="$PROJECT_DIR$/dubbo-demo-consumer/dubbo-demo-consumer.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dubbo-demo-provider/dubbo-demo-provider.iml" afterPath="$PROJECT_DIR$/dubbo-demo-provider/dubbo-demo-provider.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dubbo-demo-provider/pom.xml" afterPath="$PROJECT_DIR$/dubbo-demo-provider/pom.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dubbo-demo-provider/src/main/resources/dubbo-demo-provider.xml" afterPath="$PROJECT_DIR$/dubbo-demo-provider/src/main/resources/dubbo-demo-provider.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dubbo-demo-provider/src/main/resources/dubbo.properties" afterPath="$PROJECT_DIR$/dubbo-demo-provider/src/main/resources/dubbo.properties" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dubbo-demo-provider/target/classes/dubbo-demo-provider.xml" afterPath="$PROJECT_DIR$/dubbo-demo-provider/target/classes/dubbo-demo-provider.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dubbo-demo-user/dubbo-demo-user.iml" afterPath="$PROJECT_DIR$/dubbo-demo-user/dubbo-demo-user.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dubbo-demo-user/pom.xml" afterPath="$PROJECT_DIR$/dubbo-demo-user/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dubbo-demo-user/src/main/java/com/lixiaohao/demo/user/Application.java" afterPath="$PROJECT_DIR$/dubbo-demo-user/src/main/java/com/lixiaohao/demo/user/Application.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dubbo-demo-user/src/main/java/com/lixiaohao/demo/user/controller/UserController.java" afterPath="$PROJECT_DIR$/dubbo-demo-user/src/main/java/com/lixiaohao/demo/user/controller/UserController.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dubbo-demo-user/src/main/resources/dubbo-demo-consumer.xml" afterPath="$PROJECT_DIR$/dubbo-demo-user/src/main/resources/dubbo-demo-consumer.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dubbo-demo-service/src/main/resources/mybatisContext.xml" afterPath="$PROJECT_DIR$/dubbo-demo-service/src/main/resources/mybatisContext.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -77,15 +45,35 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="200">
-                <caret line="8" column="11" lean-forward="true" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
-                <folding />
-              </first_editor>
-              <second_editor />
+      <file leaf-file-name="ConsumerTest.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/dubbo-demo-consumer/src/main/java/com/lixiaohao/dubbo/demo/consumer/ConsumerTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="275">
+              <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ProviderApplication.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dubbo-demo-provider/src/main/java/com/lixiaohao/dubbo/demo/provider/ProviderApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="250">
+              <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+              <folding>
+                <element signature="e#169#170#0" expanded="true" />
+                <element signature="e#228#229#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="dubbo.properties" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dubbo-demo-provider/src/main/resources/dubbo.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="371">
+              <caret line="28" column="53" lean-forward="false" selection-start-line="28" selection-start-column="53" selection-end-line="28" selection-end-column="53" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -112,7 +100,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/dubbo-demo-provider/src/test/java/com/lixiaohao/dubbo/demo/consumer/ProviderTest.java" />
         <option value="$PROJECT_DIR$/dubbo-demo-consumer/src/main/java/com/lixiaohao/dubbo/demo/consumer/MyService.java" />
         <option value="$PROJECT_DIR$/dubbo-demo-consumer/src/test/java/com/lixiaohao/dubbo/demo/consumer/ConsumerTest.java" />
         <option value="$PROJECT_DIR$/dubbo-demo-consumer/src/main/resources/application.properties" />
@@ -140,8 +127,6 @@
         <option value="$PROJECT_DIR$/dubbo-demo-user/pom.xml" />
         <option value="$PROJECT_DIR$/dubbo-demo-provider/src/main/java/com/lixiaohao/dubbo/demo/provider/ProviderApplication.java" />
         <option value="$PROJECT_DIR$/dubbo-demo-api/pom.xml" />
-        <option value="$PROJECT_DIR$/dubbo-demo-provider/src/main/resources/dubbo-demo-provider.xml" />
-        <option value="$PROJECT_DIR$/dubbo-demo-provider/src/main/resources/dubbo.properties" />
         <option value="$PROJECT_DIR$/dubbo-demo-provider/pom.xml" />
         <option value="$PROJECT_DIR$/dubbo-demo-provider/src/main/resources/spring-application.xml" />
         <option value="$PROJECT_DIR$/dubbo-demo-user/src/main/resources/dubbo-demo-consumer.xml" />
@@ -152,7 +137,6 @@
         <option value="$PROJECT_DIR$/dubbo-demo-user/src/main/java/com/lixiaohao/demo/user/service/UserInfoService.java" />
         <option value="$PROJECT_DIR$/dubbo-demo-user/src/main/java/com/lixiaohao/demo/user/controller/UserController.java" />
         <option value="$PROJECT_DIR$/dubbo-demo-provider/src/main/resources/mybatisContext.xml" />
-        <option value="$PROJECT_DIR$/dubbo-demo-provider/src/main/java/com/lixiaohao/dubbo/demo/provider/serviceimpl/UserServiceImpl.java" />
         <option value="$PROJECT_DIR$/dubbo-demo-provider/src/main/java/com/lixiaohao/dubbo/demo/provider/dao/UserDao.java" />
         <option value="$PROJECT_DIR$/dubbo-demo-provider/src/main/resources/model/userDao.xml" />
         <option value="$PROJECT_DIR$/dubbo-demo-service/pom.xml" />
@@ -163,6 +147,10 @@
         <option value="$PROJECT_DIR$/dubbo-demo-service/src/main/resources/spring-application.xml" />
         <option value="$PROJECT_DIR$/dubbo-demo-service/src/main/resources/dubbo-demo-provider.xml" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/dubbo-demo-service/src/main/resources/mybatisContext.xml" />
+        <option value="$PROJECT_DIR$/dubbo-demo-provider/src/main/java/com/lixiaohao/dubbo/demo/provider/serviceimpl/UserServiceImpl.java" />
+        <option value="$PROJECT_DIR$/dubbo-demo-provider/src/main/resources/dubbo-demo-provider.xml" />
+        <option value="$PROJECT_DIR$/dubbo-demo-provider/src/main/resources/dubbo.properties" />
       </list>
     </option>
   </component>
@@ -313,7 +301,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.Application">
+  <component name="RunManager" selected="Application.ConsumerTest">
     <configuration default="false" name="ConsumerTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -802,10 +790,10 @@
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Spring Boot.Application" />
-        <item index="1" class="java.lang.String" itemvalue="Application.ServiceApplication" />
-        <item index="2" class="java.lang.String" itemvalue="Application.ProviderApplication" />
-        <item index="3" class="java.lang.String" itemvalue="Application.ConsumerTest" />
+        <item index="0" class="java.lang.String" itemvalue="Application.ConsumerTest" />
+        <item index="1" class="java.lang.String" itemvalue="Application.ProviderApplication" />
+        <item index="2" class="java.lang.String" itemvalue="Spring Boot.Application" />
+        <item index="3" class="java.lang.String" itemvalue="Application.ServiceApplication" />
         <item index="4" class="java.lang.String" itemvalue="Application.UserTest" />
       </list>
     </recent_temporary>
@@ -822,7 +810,7 @@
       <updated>1498533973634</updated>
       <workItem from="1498533976974" duration="2690000" />
       <workItem from="1498540884042" duration="4614000" />
-      <workItem from="1498547383006" duration="28316000" />
+      <workItem from="1498547383006" duration="30645000" />
     </task>
     <task id="LOCAL-00001" summary="readme">
       <created>1498538108034</created>
@@ -838,11 +826,25 @@
       <option name="project" value="LOCAL" />
       <updated>1498549130638</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="用户管理demo">
+      <created>1498630393910</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1498630393910</updated>
+    </task>
+    <task id="LOCAL-00004" summary="readme">
+      <created>1498630453216</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1498630453216</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35620000" />
+    <option name="totallyTimeSpent" value="37949000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -867,13 +869,13 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.40303358" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.47453955" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.54821235" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.40411702" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.40411702" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15138593" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
@@ -897,6 +899,7 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
+    <MESSAGE value="用户管理demo" />
     <MESSAGE value="readme" />
     <option name="LAST_COMMIT_MESSAGE" value="readme" />
   </component>
@@ -911,14 +914,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/dubbo-demo-consumer/src/main/resources/dubbo.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="269">
-          <caret line="19" column="27" lean-forward="false" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="27" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/dubbo-demo-consumer/src/main/resources/dubbo-demo-consumer.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="250">
@@ -1094,14 +1089,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dubbo-demo-provider/src/main/resources/dubbo.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="271">
-          <caret line="24" column="25" lean-forward="false" selection-start-line="24" selection-start-column="25" selection-end-line="24" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/dubbo-demo-user/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2600">
@@ -1126,14 +1113,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dubbo-demo-consumer/src/main/java/com/lixiaohao/dubbo/demo/consumer/ConsumerTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="15" lean-forward="false" selection-start-line="15" selection-start-column="15" selection-end-line="15" selection-end-column="15" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/dubbo-demo-user/src/main/resources/dubbo-demo-consumer.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-11">
@@ -1146,14 +1125,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="250">
           <caret line="10" column="37" lean-forward="false" selection-start-line="10" selection-start-column="37" selection-end-line="10" selection-end-column="37" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dubbo-demo-provider/src/main/resources/dubbo-demo-provider.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-20">
-          <caret line="11" column="25" lean-forward="false" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="25" />
           <folding />
         </state>
       </provider>
@@ -1174,14 +1145,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dubbo-demo-user/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="16" lean-forward="false" selection-start-line="0" selection-start-column="16" selection-end-line="0" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/dubbo-demo-provider/src/main/resources/mybatisContext.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
@@ -1195,9 +1158,9 @@
         <state relative-caret-position="112">
           <caret line="58" column="45" lean-forward="false" selection-start-line="58" selection-start-column="45" selection-end-line="58" selection-end-column="45" />
           <folding>
-            <element signature="e#1201#1207#0" expanded="true" />
-            <element signature="e#1412#1418#0" expanded="true" />
-            <element signature="e#1644#1650#0" expanded="true" />
+            <element signature="e#1201#1207#0" expanded="false" />
+            <element signature="e#1412#1418#0" expanded="false" />
+            <element signature="e#1644#1650#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1207,21 +1170,7 @@
         <state relative-caret-position="221">
           <caret line="14" column="15" lean-forward="false" selection-start-line="14" selection-start-column="15" selection-end-line="14" selection-end-column="15" />
           <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dubbo-demo-user/src/main/java/com/lixiaohao/demo/user/service/UserInfoService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="30" column="0" lean-forward="false" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#470#471#0" expanded="true" />
-            <element signature="e#514#515#0" expanded="true" />
-            <element signature="e#640#641#0" expanded="true" />
-            <element signature="e#698#699#0" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1234,33 +1183,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dubbo-demo-provider/src/main/java/com/lixiaohao/dubbo/demo/provider/serviceimpl/UserServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="16" column="38" lean-forward="true" selection-start-line="16" selection-start-column="38" selection-end-line="16" selection-end-column="38" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#477#478#0" expanded="true" />
-            <element signature="e#522#523#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/dubbo-demo-provider/src/main/resources/model/userDao.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="125">
           <caret line="17" column="13" lean-forward="false" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
-          <folding>
-            <marker date="1498629561517" expanded="true" signature="675:695" ph="SELECT * FRO... t_user" />
-            <marker date="1498629561517" expanded="true" signature="772:817" ph="SELECT * FRO... t_user" />
-            <marker date="1498629561517" expanded="true" signature="892:979" ph="SELECT * FRO... t_user" />
-            <marker date="1498629561517" expanded="true" signature="1199:1234" ph="SELECT * FRO... t_user" />
-            <marker date="1498629561517" expanded="true" signature="1340:1388" ph="SELECT * FRO... t_user" />
-            <marker date="1498629561517" expanded="true" signature="1524:1596" ph="SELECT * FRO... t_user" />
-            <marker date="1498629561517" expanded="true" signature="1730:1791" ph="SELECT * FRO... t_user" />
-            <marker date="1498629561517" expanded="true" signature="2271:2370" ph="insert into t_user... " />
-            <marker date="1498629561517" expanded="true" signature="2477:2510" ph="delete from " />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1290,23 +1217,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dubbo-demo-provider/src/main/java/com/lixiaohao/dubbo/demo/provider/ProviderApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="8" column="5" lean-forward="true" selection-start-line="6" selection-start-column="4" selection-end-line="8" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/dubbo-demo-service/src/main/java/com/lixiaohao/dubbo/demo/service/UserServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="138">
           <caret line="22" column="52" lean-forward="false" selection-start-line="22" selection-start-column="52" selection-end-line="22" selection-end-column="52" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#402#403#0" expanded="true" />
-            <element signature="e#447#448#0" expanded="true" />
-            <element signature="e#623#624#0" expanded="true" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#402#403#0" expanded="false" />
+            <element signature="e#447#448#0" expanded="false" />
+            <element signature="e#623#624#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1345,16 +1264,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dubbo-demo-user/src/main/java/com/lixiaohao/demo/user/Application.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="14" column="50" lean-forward="false" selection-start-line="14" selection-start-column="50" selection-end-line="14" selection-end-column="50" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/dubbo-demo-service/src/main/java/com/lixiaohao/dubbo/demo/ServiceApplication.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="175">
@@ -1363,14 +1272,93 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/dubbo-demo-service/src/main/resources/mybatisContext.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" column="59" lean-forward="true" selection-start-line="8" selection-start-column="59" selection-end-line="8" selection-end-column="59" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="200">
-            <caret line="8" column="11" lean-forward="true" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
+          <first_editor relative-caret-position="175">
+            <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dubbo-demo-user/src/main/java/com/lixiaohao/demo/user/service/UserInfoService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="25" column="25" lean-forward="false" selection-start-line="25" selection-start-column="25" selection-end-line="25" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dubbo-demo-user/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="16" lean-forward="true" selection-start-line="0" selection-start-column="16" selection-end-line="0" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dubbo-demo-user/src/main/java/com/lixiaohao/demo/user/Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="15" column="26" lean-forward="true" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dubbo-demo-provider/src/main/java/com/lixiaohao/dubbo/demo/provider/serviceimpl/UserServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="463">
+          <caret line="25" column="5" lean-forward="false" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dubbo-demo-provider/src/main/resources/dubbo-demo-provider.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="7" column="12" lean-forward="false" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dubbo-demo-provider/src/main/resources/dubbo.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="371">
+          <caret line="28" column="53" lean-forward="false" selection-start-line="28" selection-start-column="53" selection-end-line="28" selection-end-column="53" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dubbo-demo-provider/src/main/java/com/lixiaohao/dubbo/demo/provider/ProviderApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding>
+            <element signature="e#169#170#0" expanded="true" />
+            <element signature="e#228#229#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dubbo-demo-consumer/src/main/java/com/lixiaohao/dubbo/demo/consumer/ConsumerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
