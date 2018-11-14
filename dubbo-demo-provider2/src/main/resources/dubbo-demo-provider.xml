@@ -4,13 +4,11 @@
        xmlns:dubbo="http://code.alibabatech.com/schema/dubbo"
        xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans-2.5.xsd
 	http://code.alibabatech.com/schema/dubbo http://code.alibabatech.com/schema/dubbo/dubbo.xsd">
+
     <!-- 扫描注解包路径，多个包用逗号分隔，不填pacakge表示扫描当前ApplicationContext中所有的类 -->
-    <!--<dubbo:annotation package="com.lixiaohao.dubbo.demo.consumer.service" />-->
-    <!--<bean id="myService" class="com.lixiaohao.dubbo.demo.consumer.service.MyService" init-method="start">-->
-        <!--<property name="demoService" ref="demoService" />-->
-    <!--</bean>-->
-    <dubbo:reference id="demoService" version="1.0.0" interface="com.lixiaohao.dubbo.demo.service.DemoService" >
-        <dubbo:method name="sayHello" async="true" onreturn = "methodCallBack.onreturn" onthrow="methodCallBack.onthrow" />
-    </dubbo:reference>
+    <dubbo:annotation package="ccom.lixiaohao.dubbo.demo.prorider2" />
+    <!--<bean id="demoService" class="ccom.lixiaohao.dubbo.demo.prorider2.DemoServiceIpml2" />-->
+
+    <!--<dubbo:service interface="com.lixiaohao.dubbo.demo.service.DemoService" ref="demoService" />-->
 
 </beans>

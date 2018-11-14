@@ -22,7 +22,6 @@ public class UserController {
     @RequestMapping("index")
     public String index(){
         System.out.println("welcome to my first spring boot demo !");
-//        userInfoService.sayHello("hello!");
         return "welcome to spring boot !";
     }
 
