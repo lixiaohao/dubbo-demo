@@ -12,12 +12,20 @@ import java.util.Date;
 /**
  * Created by xiaohao.li on 2017/6/27.
  */
-@Service("myService")
+//@Service("myService")
 public class MyService {
 
-    @Autowired
+//    @Autowired
 //    @Reference(version = "1.0.0")
     private DemoService demoService;
+
+    public DemoService getDemoService() {
+        return demoService;
+    }
+
+    public void setDemoService(DemoService demoService) {
+        this.demoService = demoService;
+    }
 
     // 默认加载该方法，等同于等同与init-method=init
     @PostConstruct
