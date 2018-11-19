@@ -9,6 +9,7 @@
     <bean id="myService" class="com.lixiaohao.dubbo.demo.consumer.service.MyService" init-method="start">
         <property name="demoService" ref="demoService" />
     </bean>
+
     <dubbo:reference id="demoService" version="1.0.0" interface="com.lixiaohao.dubbo.demo.service.DemoService" >
         <!--<dubbo:method name="sayHello" async="true" onreturn = "methodCallBack.onreturn" onthrow="methodCallBack.onthrow" />-->
     </dubbo:reference>

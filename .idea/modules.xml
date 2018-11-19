@@ -9,6 +9,7 @@
       <module fileurl="file://$PROJECT_DIR$/dubbo-demo-model/dubbo-demo-model.iml" filepath="$PROJECT_DIR$/dubbo-demo-model/dubbo-demo-model.iml" />
       <module fileurl="file://$PROJECT_DIR$/dubbo-demo-provider/dubbo-demo-provider.iml" filepath="$PROJECT_DIR$/dubbo-demo-provider/dubbo-demo-provider.iml" />
       <module fileurl="file://$PROJECT_DIR$/dubbo-demo-provider2/dubbo-demo-provider2.iml" filepath="$PROJECT_DIR$/dubbo-demo-provider2/dubbo-demo-provider2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dubbo-demo-provider2/dubbo-demo-provider2.iml" filepath="$PROJECT_DIR$/dubbo-demo-provider2/dubbo-demo-provider2.iml" />
       <module fileurl="file://$PROJECT_DIR$/dubbo-demo-service/dubbo-demo-service.iml" filepath="$PROJECT_DIR$/dubbo-demo-service/dubbo-demo-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/dubbo-demo-user/dubbo-demo-user.iml" filepath="$PROJECT_DIR$/dubbo-demo-user/dubbo-demo-user.iml" />
     </modules>

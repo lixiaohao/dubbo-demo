@@ -29,8 +29,7 @@ public class MyService {
 
     // 默认加载该方法，等同于等同与init-method=init
     @PostConstruct
-    public void start() throws Exception{
-        for (int i = 0; i < Integer.MAX_VALUE; i ++) {
+    public void start() throws Exception{ for (int i = 0; i < Integer.MAX_VALUE; i ++) {
             try {
                 String hello = demoService.sayHello("world" + i);
                 System.out.println("[" + new SimpleDateFormat("HH:mm:ss").format(new Date()) + "] " + hello);
